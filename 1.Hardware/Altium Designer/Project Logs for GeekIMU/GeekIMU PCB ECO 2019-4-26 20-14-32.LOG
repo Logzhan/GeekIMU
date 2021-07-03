@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=MEMS_MISO Pin=U11-9
+Added Pin To Net: NetName=MEMS_SCK Pin=U11-23
+Added Pin To Net: NetName=MEMS_MOSI Pin=U11-24
+Added Pin To Net: NetName=MEMS_MOSI Pin=U11-24
+Added Pin To Net: NetName=MEMS_SCK Pin=U12-1
+Added Pin To Net: NetName=MEMS_MISO Pin=U12-9
+Added Pin To Net: NetName=MEMS_MOSI Pin=U12-11

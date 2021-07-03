@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : F:\GeekIMU\Ó²¼þÉè¼Æ\Hardware\Altium\GeekIMU.PcbDoc
+Date         : 2019/12/15
+Time         : 22:19:10
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 112
+    Connections routed, 112
+    Connections remaing, 0
+count : 4
