@@ -1,11 +1,12 @@
-# GEEKIMUv2
-GEEKIMU ÊÇÒ»¸ö·Ç³£¾«ÖÂÐ¡ÇÉµÄimuÄ£¿é£¬²ÉÓÃOculusÏàÍ¬µÄÍÓÂÝÒÇºÍ´ÅÁ¦¼Æ¡£ÆäÖÐÍÓÂÝÒÇ²ÉÓÃMPU6500£¬¶ø´ÅÁ¦¼ÆÔò²ÉÓÃLIS3MDL¡£´«¸ÐÆ÷µÄÊý¾ÝÊä³ö²ÉÓÃUSB-HIDÐ­Òé¡£ÓÉÓÚMPU6500ºÍLIS3MDL¶¼Ö§³Ö´ÅÁ¦¼Æ£¬ËùÒÔ¿ÉÒÔÔÚ¼«¶ÌµÄÊ±¼äÄÚÍê³ÉIMUÊý¾ÝµÄ²ÉÑù¡£±¾ÏîÄ¿Ö¼ÔÚÎª¶ÔIMU¸Ð
-ÐËÈ¤µÄÈËÌá¹©Ò»Ð©°ïÖú£¬¼õÉÙÖØ¸´Ð´Çý¶¯µÄÂé·³¡£
+ï»¿# GEEKIMUv2
+GEEKIMU æ˜¯ä¸€ä¸ªéžå¸¸ç²¾è‡´å°å·§çš„imuæ¨¡å—ï¼Œé‡‡ç”¨Oculusç›¸åŒçš„é™€èžºä»ªå’Œç£åŠ›è®¡ã€‚å…¶ä¸­é™€èžºä»ªé‡‡ç”¨MPU6500ï¼Œè€Œç£åŠ›è®¡åˆ™é‡‡ç”¨LIS3MDLã€‚ä¼ æ„Ÿå™¨çš„æ•°æ®è¾“å‡ºé‡‡ç”¨USB-HIDåè®®ã€‚ç”±äºŽMPU6500å’ŒLIS3MDLéƒ½æ”¯æŒç£åŠ›è®¡ï¼Œæ‰€ä»¥å¯ä»¥åœ¨æžçŸ­çš„æ—¶é—´å†…å®ŒæˆIMUæ•°æ®çš„é‡‡æ ·ã€‚æœ¬é¡¹ç›®æ—¨åœ¨ä¸ºå¯¹IMUæ„Ÿ
+å…´è¶£çš„äººæä¾›ä¸€äº›å¸®åŠ©ï¼Œå‡å°‘é‡å¤å†™é©±åŠ¨çš„éº»çƒ¦ã€‚
 
 ![](3.Docs\Image\1.jpg)
-### ¹æ¸ñ
-ÍÓÂÝÒÇ   £ºMPU6500
-´ÅÁ¦¼Æ   £ºLIS3MDL
-Í¨ÐÅ·½Ê½£ºUSB-HID
-½âËãÆµÂÊ£º×î¸ß1000Hz
+
+### è§„æ ¼
+é™€èžºä»ª   ï¼šMPU6500
+ç£åŠ›è®¡   ï¼šLIS3MDL
+é€šä¿¡æ–¹å¼ï¼šUSB-HID
+è§£ç®—é¢‘çŽ‡ï¼šæœ€é«˜1000Hz
 
