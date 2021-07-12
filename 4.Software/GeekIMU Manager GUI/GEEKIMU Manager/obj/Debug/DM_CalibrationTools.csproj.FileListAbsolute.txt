@@ -1,0 +1,21 @@
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\DM_CalibrationTools.exe.config
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\DM_CalibrationTools.exe
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\DM_CalibrationTools.pdb
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\SharpGL.dll
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\SharpGL.SceneGraph.dll
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\SharpGL.WinForms.dll
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\SharpGL.xml
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\SharpGL.SceneGraph.xml
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\SharpGL.WinForms.xml
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\obj\Debug\DM_CalibrationTools.csprojResolveAssemblyReference.cache
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\obj\Debug\DM_CalibrationTools.Properties.Resources.resources
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\obj\Debug\DM_CalibrationTools.csproj.GenerateResource.Cache
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\obj\Debug\DM_CalibrationTools.exe
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\obj\Debug\DM_CalibrationTools.pdb
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\SkinForm.dll
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\obj\Debug\DM_CalibrationTools.IMUInformation.resources
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\obj\Debug\DM_CalibrationTools.MainForms.resources
+F:\GeekIMU\软件设计\GeekIMU Manager GUI\DM_CalibrationTools\obj\Debug\DM_CalibrationTools.IMUConnect.resources
+F:\GEEK Project\Geek IMU\GeekIMU v2\4.Software\GeekIMU Manager GUI1\GeekIMU Manager GUI\DM_CalibrationTools\bin\Debug\DM_CalibrationTools.exe.config
+F:\GEEK Project\Geek IMU\GeekIMU v2\4.Software\GeekIMU Manager GUI1\GeekIMU Manager GUI\DM_CalibrationTools\obj\Debug\DM_CalibrationTools.exe
+F:\GEEK Project\Geek IMU\GeekIMU v2\4.Software\GeekIMU Manager GUI1\GeekIMU Manager GUI\DM_CalibrationTools\obj\Debug\DM_CalibrationTools.pdb
