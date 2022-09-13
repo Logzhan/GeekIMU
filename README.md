@@ -15,7 +15,7 @@ GeeKIMU 是一个非常精致小巧的imu模块，采用Oculus相同的陀螺仪
 3. 软件GUI发送命令设置陀螺仪静止校准
 4. 3D姿态显示
 
-![](3.Docs/Image/GeekIMU Manager Connect.png)
+![](3.Docs/Image/GeekIMU_Manager-Connect.png)
 
 ### 三、其他用途：
 
