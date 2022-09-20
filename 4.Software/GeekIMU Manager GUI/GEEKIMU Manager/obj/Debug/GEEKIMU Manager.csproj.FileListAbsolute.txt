@@ -34,3 +34,23 @@ W:\GEEK Project\Geek IMU\GeekIMU v2\4.Software\GeekIMU Manager GUI v2.0.0\GeekIM
 W:\GEEK Project\Geek IMU\GeekIMU v2\4.Software\GeekIMU Manager GUI v2.0.0\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\DM_CalibrationTools.MainForms.resources
 W:\GEEK Project\Geek IMU\GeekIMU v2\4.Software\GeekIMU Manager GUI v2.0.0\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\DM_CalibrationTools.Properties.Resources.resources
 W:\GEEK Project\Geek IMU\GeekIMU v2\4.Software\GeekIMU Manager GUI v2.0.0\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\GEEKIMU Manager.csproj.GenerateResource.Cache
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\bin\Debug\DM_CalibrationTools.exe.config
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\DM_CalibrationTools.exe
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\DM_CalibrationTools.pdb
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\bin\Debug\DM_CalibrationTools.exe
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\bin\Debug\DM_CalibrationTools.pdb
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\bin\Debug\SharpGL.dll
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\bin\Debug\SharpGL.SceneGraph.dll
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\bin\Debug\SharpGL.WinForms.dll
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\bin\Debug\SkinForm.dll
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\bin\Debug\SharpGL.xml
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\bin\Debug\SharpGL.SceneGraph.xml
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\bin\Debug\SharpGL.WinForms.xml
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\GEEKIMU Manager.csproj.AssemblyReference.cache
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\DM_CalibrationTools.IMUConnect.resources
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\DM_CalibrationTools.IMUInformation.resources
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\DM_CalibrationTools.MainForms.resources
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\DM_CalibrationTools.Properties.Resources.resources
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\GEEKIMU Manager.csproj.GenerateResource.cache
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\GEEKIMU Manager.csproj.CoreCompileInputs.cache
+E:\Hardware Project\GeekIMU\4.Software\GeekIMU Manager GUI\GEEKIMU Manager\obj\Debug\GEEKIMU Manager.csproj.CopyComplete
