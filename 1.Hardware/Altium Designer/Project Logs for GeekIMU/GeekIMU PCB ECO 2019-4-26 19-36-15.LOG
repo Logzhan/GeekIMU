@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=J4-2
-Removed Pin From Net: NetName=IO0 Pin=J4-3
-Removed Pin From Net: NetName=IO3 Pin=J4-5
-Removed Pin From Net: NetName=ICLK Pin=J4-7
-Added Pin To Net: NetName=GND Pin=J4-3
-Added Pin To Net: NetName=SWDIO Pin=J4-5
-Added Pin To Net: NetName=SWCLK Pin=J4-7
