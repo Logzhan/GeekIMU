@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UJOWTRGE
+DocumentUniqueId=FIEGQHYT
 
 [Document2]
 DocumentPath=Power.SchDoc
@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KYNVMKQC
+DocumentUniqueId=VGYLBFED
 
 [Document3]
 DocumentPath=MCU.SchDoc
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OACYYKSA
+DocumentUniqueId=GAJSEYWO
 
 [Document4]
 DocumentPath=USB.SchDoc
@@ -122,20 +122,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUORUQTA
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for GeekIMU\Board Information - GeekIMU.html
+[Document6]
+DocumentPath=GeekIMU.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CNKHXQGS
 
-[GeneratedDocument2]
+[GeneratedDocument1]
 DocumentPath=Project Outputs for GeekIMU\Design Rule Check - GeekIMU.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=GeekIMU.PcbDoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Library\TRACKER.PcbLib.htm
 DItemRevisionGUID=
 
 [Configuration1]

@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VUTWOBLW
+DocumentUniqueId=RFIBAPVA
 
 [Document2]
 DocumentPath=Power.SchDoc
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MOJPCQLW
 
 [Document4]
 DocumentPath=USB.SchDoc
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WKDESWHM
 
 [Document5]
 DocumentPath=GeekIMU.PcbDoc
@@ -123,19 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FUORUQTA
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for GeekIMU\Board Information - GeekIMU.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for GeekIMU\Design Rule Check - GeekIMU.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=GeekIMU.PcbDoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Library\TRACKER.PcbLib.htm
 DItemRevisionGUID=
 
 [Configuration1]
